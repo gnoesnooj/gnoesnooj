@@ -22,7 +22,7 @@
     <th>Languages, etc.</th>
   </tr>
   <tr>
-    <td><a href="https://github.com/gnoesnooj/ddib">Papyrus</a></td>
+    <td><a href="https://github.com/gnoesnooj/ddib">DDIB</a></td>
     <td> 타임딜 플랫폼 대여 서비스 (2024) </td>
     <td>Java, Sprint Boot, JPA, Redis, QueryDSL, Spring Cloud (Eureka, Gateway, Zipkin, Sleuth), Elastic Search, Fluentd, Kibana, Prometheus, Grafana</td>
   </tr>
