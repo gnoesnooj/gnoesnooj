@@ -6,20 +6,26 @@
 🤩 더 나은 설계와 개발 방법론에 관심이 많습니다 ! <br>
   
 ## Experience
-💻 SSAFY(Samsung Software Academy For Youth) 10th (2023.07 ~ 2024.06)<br>
-🎓 Department of Convergence Security, Kyonggi University (2016.03 ~ 2022.02)<br>
+스파르타 내일배움캠프 단기심화 부트캠프 6기 (2026.01 ~ 2026.05)<br>
+삼성 청년 소프트웨어 아카데미 10기 (2023.07 ~ 2024.06)<br>
+Department of Convergence Security, Kyonggi University (2016.03 ~ 2022.02)<br>
 
 ## Certificates
-🖥 정보처리기사 (2022.08.17)<br>
-🖥 네트워크 관리사 2급 (2019.04.09)<br>
-📢 OPic - IM1 <br><br>
+정보처리기사 (2022.08.17)<br>
+네트워크 관리사 2급 (2019.04.09)<br>
+OPic - IM1 <br><br>
 
 ## Projects
 <table>
   <tr>
     <th>Title</th>
     <th>Introduction</th>
-    <th>Languages, etc.</th>
+    <th>Skills</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Pagely-wisely">Pagely</a></td>
+    <td> 독서 모임 커뮤니티 (2026) </td>
+    <td>Java, Sprint Boot, JPA, Redis, Spring Cloud (Eureka, Gateway, Zipkin, Sleuth), Prometheus, Grafana, Kafka, Spring AI, Flyway, CodeRabbit</td>
   </tr>
   <tr>
     <td><a href="https://github.com/gnoesnooj/ddib">DDIB</a></td>
@@ -30,11 +36,6 @@
     <td><a href="https://github.com/unicornstudy/papyrus">Papyrus</a></td>
     <td> 뉴스 기사 요약 서비스 (2023) </td>
     <td>Java, Sprint Boot, JPA, RabbitMQ, Elastic Search, PostgreSQL</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/class071/gaboja">Gaboja</a></td>
-    <td> 웹 쇼핑몰 REST API 프로젝트 (2022) </td>
-    <td>Java, Sprint Boot, JPA, AWS EC2, JUnit, Rest Docs, Docker, AWS S3, MariaDB </td>
   </tr>
   <tr>
     <td><a href="https://github.com/class071/themoti">Themoti</a></td>
